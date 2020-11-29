@@ -4,7 +4,7 @@
 # # NYC Airbnb Bookings
 # ### Python Final Project
 
-# #### Akhila and Shivani Dedhia
+# #### Akhila Pamukuntla and Shivani Dedhia
 
 # In[41]:
 
